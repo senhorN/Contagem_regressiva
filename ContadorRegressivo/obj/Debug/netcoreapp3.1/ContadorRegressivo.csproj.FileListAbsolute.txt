@@ -1,0 +1,14 @@
+C:\Users\nick6\source\repos\ContadorRegressivo\ContadorRegressivo\bin\Debug\netcoreapp3.1\ContadorRegressivo.exe
+C:\Users\nick6\source\repos\ContadorRegressivo\ContadorRegressivo\bin\Debug\netcoreapp3.1\ContadorRegressivo.deps.json
+C:\Users\nick6\source\repos\ContadorRegressivo\ContadorRegressivo\bin\Debug\netcoreapp3.1\ContadorRegressivo.runtimeconfig.json
+C:\Users\nick6\source\repos\ContadorRegressivo\ContadorRegressivo\bin\Debug\netcoreapp3.1\ContadorRegressivo.runtimeconfig.dev.json
+C:\Users\nick6\source\repos\ContadorRegressivo\ContadorRegressivo\bin\Debug\netcoreapp3.1\ContadorRegressivo.dll
+C:\Users\nick6\source\repos\ContadorRegressivo\ContadorRegressivo\bin\Debug\netcoreapp3.1\ContadorRegressivo.pdb
+C:\Users\nick6\source\repos\ContadorRegressivo\ContadorRegressivo\obj\Debug\netcoreapp3.1\ContadorRegressivo.csproj.AssemblyReference.cache
+C:\Users\nick6\source\repos\ContadorRegressivo\ContadorRegressivo\obj\Debug\netcoreapp3.1\ContadorRegressivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nick6\source\repos\ContadorRegressivo\ContadorRegressivo\obj\Debug\netcoreapp3.1\ContadorRegressivo.AssemblyInfoInputs.cache
+C:\Users\nick6\source\repos\ContadorRegressivo\ContadorRegressivo\obj\Debug\netcoreapp3.1\ContadorRegressivo.AssemblyInfo.cs
+C:\Users\nick6\source\repos\ContadorRegressivo\ContadorRegressivo\obj\Debug\netcoreapp3.1\ContadorRegressivo.csproj.CoreCompileInputs.cache
+C:\Users\nick6\source\repos\ContadorRegressivo\ContadorRegressivo\obj\Debug\netcoreapp3.1\ContadorRegressivo.dll
+C:\Users\nick6\source\repos\ContadorRegressivo\ContadorRegressivo\obj\Debug\netcoreapp3.1\ContadorRegressivo.pdb
+C:\Users\nick6\source\repos\ContadorRegressivo\ContadorRegressivo\obj\Debug\netcoreapp3.1\ContadorRegressivo.genruntimeconfig.cache
